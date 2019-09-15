@@ -1,0 +1,54 @@
+body, p, h1, h2, h3, h4, h5, h6 {
+background: transparent;
+border: 0;
+margin: 0;
+outline: 0;
+padding: 0;
+text-decoration: none;
+box-sizing: border-box;
+font-family: 'roboto', sans-serif;
+}
+
+.line1 {
+    background: #a3cc40;
+    color: #ffffff;
+    font-size: 26px;
+}
+
+.line2, .line4 {
+    background: #373737;
+    color: #ffffff;
+}
+
+.line3, .line5 {
+    background: #4b4d4f;
+    color: #ffffff;
+}
+
+.line4 a, .line5 a, .line2 a, .line3 a  {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.a11, .a12, .a13 {
+    padding: 10px;
+}
+
+.table-text {
+    font-size: 18px;
+    padding: 10px 20px;
+}
+
+.film-chenge {
+    width: 900px;
+    height: 372px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 40px;
+    border-radius: 20px;
+    overflow: hidden;
+    border-collapse: collapse;
+}
+.table-name {
+    margin: 0 auto;
+}
